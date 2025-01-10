@@ -1,0 +1,27 @@
+[submodule "0_Libft"]
+	path = 0_Libft
+	url = https://github.com/yublee71/42_libft.git
+[submodule "1_Get_Next_Line"]
+	path = 1_Get_Next_Line
+	url = https://github.com/yublee71/42_GNL.git
+[submodule "1_Printf"]
+	path = 1_Printf
+	url = https://github.com/yublee71/42_printf.git
+[submodule "2_Pipex"]
+	path = 2_Pipex
+	url = https://github.com/yublee71/42_pipex.git
+[submodule "2_So_Long"]
+	path = 2_So_Long
+	url = https://github.com/yublee71/42_so_long.git
+[submodule "2_Push_Swap"]
+	path = 2_Push_Swap
+	url = https://github.com/yublee71/42_pushswap.git
+[submodule "3_Minishell"]
+	path = 3_Minishell
+	url = https://github.com/yublee71/42_minishell.git
+[submodule "3_Philosophers"]
+	path = 3_Philosophers
+	url = https://github.com/yublee71/42_philosophers.git
+[submodule "4_CPP_Module_00"]
+	path = 4_CPP_Module_00
+	url = https://github.com/yublee71/42_CPP_Module_00.git
