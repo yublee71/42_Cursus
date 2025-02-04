@@ -25,6 +25,6 @@
 [submodule "4_CPP_Module_00"]
 	path = 4_CPP_Module_00
 	url = https://github.com/yublee71/42_CPP_Module_00.git
-[submodule "4_Cub"]
+[submodule "4_Cub3D"]
 	path = 4_Cub3D
 	url = https://github.com/yublee71/42_cub3d.git
