@@ -28,3 +28,6 @@
 [submodule "4_Cub3D"]
 	path = 4_Cub3D
 	url = https://github.com/yublee71/42_cub3d.git
+[submodule "42_CPP_Module_01"]
+	path = 4_CPP_Module_01
+	url = https://github.com/yublee71/42_CPP_Module_01.git
