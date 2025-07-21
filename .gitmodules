@@ -34,3 +34,9 @@
 [submodule "4_CPP_Module_02"]
 	path = 4_CPP_Module_02
 	url = https://github.com/yublee71/42_CPP_Module_02.git
+[submodule "4_CPP_Module_03"]
+	path = 4_CPP_Module_03
+	url = https://github.com/yublee71/42_CPP_Module_03.git
+[submodule "4_CPP_Module_04"]
+	path = 4_CPP_Module_04
+	url = https://github.com/yublee71/42_CPP_Module_04.git
