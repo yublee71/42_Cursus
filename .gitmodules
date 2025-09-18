@@ -40,3 +40,6 @@
 [submodule "4_CPP_Module_04"]
 	path = 4_CPP_Module_04
 	url = https://github.com/yublee71/42_CPP_Module_04.git
+[submodule "5_CPP_Module_05"]
+	path = 5_CPP_Module_05
+	url = https://github.com/yublee71/42_CPP_Module_05.git
