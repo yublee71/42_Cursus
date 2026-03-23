@@ -49,3 +49,6 @@
 [submodule "5_CPP_Module_07"]
 	path = 5_CPP_Module_07
 	url = git@github.com:yublee71/42_CPP_Module_07.git
+[submodule "5_CPP_Module_08"]
+	path = 5_CPP_Module_08
+	url = git@github.com:yublee71/42_CPP_Module_08.git
